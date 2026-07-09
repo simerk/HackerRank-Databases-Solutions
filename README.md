@@ -6,9 +6,9 @@ This repository contains my solutions to Databases problems on HackerRank.
 
 Each solution includes:
 
-- 📌 Idea
+- 📌 Problem
 - 💡 Explanation
-- 💻 Answer
+- 💻 Solution
 
 ---
 
