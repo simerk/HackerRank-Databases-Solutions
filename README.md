@@ -31,6 +31,13 @@ Each solution includes:
 |  15 | [Indexes - 2](Indexes/15.%20Indexes%20-%202.md) | Indexes | MCQ |
 |  16 | [Indexes - 3](Indexes/16.%20Indexes%20-%203.md) | Indexes | MCQ |
 |  17 | [Indexes - 4](Indexes/17.%20Indexes%20-%204.md) | Indexes | MCQ |
+|  18 | [OLAP Performance](OLAP/18.%20OLAP%20Performance.md) | OLAP | MCQ |
+|  19 | [OLAP Operations - 1](19.%20OLAP%20Operations%20-%201.md) | OLAP | MCQ |
+|  20 | [OLAP Operations - 2](20.%20OLAP%20Operations%20-%202.md) | OLAP | MCQ |
+|  21 | [OLAP Cube Metadata](21.%20OLAP%20Cube%20Metadata.md) | OLAP | MCQ |
+|  22 | [OLAP Name(s)](OLAP/22.%20OLAP%20Name(s).md) | OLAP | MCQ |
+|  23 | [The Total View](OLAP/23.%20The%20Total%20View.md) | OLAP | MCQ |
+|  24 | [OLAP Operation Types](OLAP/24.%20OLAP%20Operation%20Types.md) | OLAP | MCQ |
 
 --- 
  
