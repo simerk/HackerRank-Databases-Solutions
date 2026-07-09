@@ -27,7 +27,11 @@ Each solution includes:
 |  11 | [Procedural Language](Relational%20Algebra/11.%20Procedural%20Language.md) | Relational Algebra | MCQ |
 |  12 | [Relations - 1](Relational%20Algebra/12.%20Relations%20-%201.md) | Relational Algebra | MCQ |
 |  13 | [Relations - 2](Relational%20Algebra/13.%20Relations%20-%202.md) | Relational Algebra | MCQ |
+|  14 | [Index Architecture Types](Indexes/14.%20Index%20Architecture%20Types.md) | Indexes | MCQ |
+|  15 | [Indexes - 2](Indexes/15.%20Indexes%20-%202.md) | Indexes | MCQ |
+|  16 | [Indexes - 3](Indexes/16.%20Indexes%20-%203.md) | Indexes | MCQ |
+|  17 | [Indexes - 4](Indexes/17.%20Indexes%20-%204.md) | Indexes | MCQ |
 
 --- 
-
+ 
 ⭐ New solutions are added regularly.
