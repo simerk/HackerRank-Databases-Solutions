@@ -38,22 +38,20 @@ Each solution includes:
 |  22 | [OLAP Name(s)](OLAP/22.%20OLAP%20Name(s).md) | OLAP | MCQ |
 |  23 | [The Total View](OLAP/23.%20The%20Total%20View.md) | OLAP | MCQ |
 |  24 | [OLAP Operation Types](OLAP/24.%20OLAP%20Operation%20Types.md) | OLAP | MCQ |
-
 |  25 | [Databases - Relational Calculus](Set%20and%20Algebra/25.%20Databases%20-%20Relational%20Calculus.md) | Set and Algebra | Medium |
 |  26 | [Databases - Keys](Set%20and%20Algebra/26.Databases%20-%20Keys.md) | Set and Algebra | Medium |
 |  27 | [Databases - Natural Joins](Set%20and%20Algebra/27.%20Databases%20-%20Natural%20Joins.md) | Set and Algebra | Medium |
 |  28 | [Databases - Differences](Set%20and%20Algebra/28.%20Databases%20-%20Differences.md) | Set and Algebra | Medium |
-
-|  29 | [Database Normalization #1 - 1NF](Database Normalization/29.%20Database%20Normalization%20#1%20-%201NF.md) | Database Normalization | Easy |
-|  30 | [Database Normalization #2 - 1/2/3 NF](Database Normalization/30.%20Database%20Normalization%20#2%20-%201/2/3%20NF.md) | Database Normalization | Easy |
-|  31 | [Database Normalization #3](Database Normalization/31.%20Database%20Normalization%20#3.md) | Database Normalization | Hard |
-|  32 | [Database Normalization #4](Database Normalization/32.%20Database%20Normalization%20#4.md) | Database Normalization | Easy |
-|  33 | [Database Normalization #5](Database Normalization/33.%20Database%20Normalization%20#5.md) | Database Normalization | Medium |
-|  34 | [Database Normalization #6](Database Normalization/34.%20Database%20Normalization%20#6.md) | Database Normalization | Medium |
-|  35 | [Database Normalization #7](Database Normalization/35.%20Database%20Normalization%20#7.md) | Database Normalization | Medium |
-|  36 | [Database Normalization #8](Database Normalization/36.%20Database%20Normalization%20#8.md) | Database Normalization | Medium |
-|  37 | [Database Normalization #9](Database Normalization/37.%20Database%20Normalization%20#9.md) | Database Normalization | Hard |
-|  38 | [Database Normalization #10](Database Normalization/38.%20Database%20Normalization%20#10.md) | Database Normalization | Medium |
+|  29 | [Database Normalization #1 - 1NF](Database%20Normalization/29.%20Database%20Normalization%20#1%20-%201NF.md) | Database Normalization | Easy |
+|  30 | [Database Normalization #2 - 1/2/3 NF](Database%20Normalization/30.%20Database%20Normalization%20#2%20-%201/2/3%20NF.md) | Database Normalization | Easy |
+|  31 | [Database Normalization #3](Database%20Normalization/31.%20Database%20Normalization%20#3.md) | Database Normalization | Hard |
+|  32 | [Database Normalization #4](Database%20Normalization/32.%20Database%20Normalization%20#4.md) | Database Normalization | Easy |
+|  33 | [Database Normalization #5](Database%20Normalization/33.%20Database%20Normalization%20#5.md) | Database Normalization | Medium |
+|  34 | [Database Normalization #6](Database%20Normalization/34.%20Database%20Normalization%20#6.md) | Database Normalization | Medium |
+|  35 | [Database Normalization #7](Database%20Normalization/35.%20Database%20Normalization%20#7.md) | Database Normalization | Medium |
+|  36 | [Database Normalization #8](Database%20Normalization/36.%20Database%20Normalization%20#8.md) | Database Normalization | Medium |
+|  37 | [Database Normalization #9](Database%20Normalization/37.%20Database%20Normalization%20#9.md) | Database Normalization | Hard |
+|  38 | [Database Normalization #10](Database%20Normalization/38.%20Database%20Normalization%20#10.md) | Database Normalization | Medium |
 
 --- 
  
