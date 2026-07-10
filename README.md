@@ -1,4 +1,4 @@
-## 🚀 HackerRank Databases Solutions
+# 🚀 HackerRank Databases Solutions
 
 Welcome! 👋
 
